@@ -1,0 +1,100 @@
+
+
+h1{
+  font-size: 3.5rem
+}
+
+h2{
+  text-align: center;
+  padding-bottom: 2%;
+}
+
+hr{
+  border: dotted 6px #294B29;
+  border-bottom: none;
+  width: 10%;
+  margin: 5% auto;
+
+}
+/* nav-section */
+.section-1-nav-bar{
+  padding:2% 15%;
+}
+
+
+/* section-1 */
+
+#section-1{
+  background-color: #294B29;
+  color: #fff;
+  padding: 7% 15%;
+}
+.carousel-images{
+  padding-top: 5px;
+  border-radius: 12%;
+}
+/* section-2 */
+#section-2{
+  background-color: #50623A;
+  color: #fff;
+  padding:2% 15%;
+  font-size: 2rem;
+  text-align: justify;
+}
+
+/* p{
+  text-align: justify;
+} */
+
+/* section-3 */
+#section-3{
+  /* color: #fff; */
+  padding:2% 15%;
+  text-align: center;
+}
+
+.cards-layout{
+  margin:0 auto 10px;
+}
+
+
+
+
+/* contact-section */
+#contact-section{
+  color: #fff;
+background-color: #294B29;
+padding:5% 15%;
+text-align: center;
+}
+
+.contact-img{
+  border-radius: 10%;
+}
+
+
+
+/* features-section */
+#features{
+  margin: 100px auto;
+}
+
+.features-row {
+  text-align: center;
+  padding: 5%;
+}
+.icon{
+  color: #50623A;
+  margin-bottom: 2rem;
+}
+
+
+/* section-4 */
+#section-4{
+  background-color: #294B29;
+  color: #fff;
+  text-align: center;
+  padding: 5%;
+  margin-top:5%;
+
+}
